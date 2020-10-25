@@ -77,9 +77,9 @@ Birth Year
 
 
 ### Files used
-chicago.csv
-new_yourk_city.csv
-washington.csv
+- chicago.csv
+- new_yourk_city.csv
+- washington.csv
 
 ### Credits
 https://git-scm.com/book/en/v2.
